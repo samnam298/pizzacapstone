@@ -1,5 +1,8 @@
+package com.pluralsight;
+
 public class Main {
     public static void main(String[] args) {
-        new UserInterface().start();
+        UserInterface ui = new UserInterface();
+        ui.start();
     }
 }
