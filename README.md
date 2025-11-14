@@ -1,4 +1,4 @@
-**# 🌮 Taco-Licious Ordering System
+🌮 Taco-Licious Ordering System
 
 ## Description of the Project
 
