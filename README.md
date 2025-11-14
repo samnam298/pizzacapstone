@@ -30,7 +30,6 @@ Instructions to set up and run the Taco-Licious application in IntelliJ IDEA.
 
 - **IntelliJ IDEA**  
 
-- **Java SDK 17   
  -Github
 ---
 
