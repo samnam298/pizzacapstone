@@ -65,7 +65,8 @@ Instructions to set up and run the Taco-Licious application in IntelliJ IDEA.
 
 
 ![tacodemo](https://github.com/user-attachments/assets/aa0210bd-172e-4ad2-8df1-f27ff37f7cb7)
-<img width="1907" height="1192" alt="Screenshot (97) (2)" src="https://github.com/user-attachments/assets/34087eba-29a5-4576-9db1-6372ebe5cafc" />
+<img width="2008" height="1255" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/726cb7d5-186c-42f0-a7e0-e130bd9df493" />
+
 
 
 ## Future Work
